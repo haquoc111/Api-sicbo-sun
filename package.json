@@ -1,7 +1,7 @@
 {
   "name": "sicbo-predict-api",
-  "version": "1.0.2",
-  "description": "API bắt cầu tài xỉu và phân tích lịch sử",
+  "version": "2.0.0",
+  "description": "API cập nhật phiên tài xỉu realtime",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
